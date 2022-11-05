@@ -1,0 +1,125 @@
+body {
+  background-color: #ccffff;
+  color: black;
+  text-align: center;
+  font-family:cursive;
+  margin: 0;
+
+
+}
+.img{
+	border-radius: 40px;
+	opacity: 0.9;
+	box-sizing: border-box;
+  border: none;
+  outline: none;
+	filter: grayscale(20%);
+	box-shadow:  -8px -8px 10px rgba(255, 255, 255,.9),
+                5px 5px 12px rgba(0, 0, 0,.2);
+}
+h1{
+	margin-top: 1rem;
+	margin-bottom: 0.5rem;
+
+}
+h3{
+	color: #063c3f;
+	margin-bottom: 1rem;
+
+}
+
+a{
+	color: blue;
+	text-decoration: none;
+}
+a:hover{
+	color: red;
+	text-decoration: none;
+}
+.card{
+    margin: auto;
+	width: 21rem;
+	height: 22rem;
+	border-radius: 20px;
+	background-color: #f5d9d9;
+    box-sizing: border-box;
+    border-radius: 15px;
+    outline: none;
+	box-shadow: -8px -8px 10px rgba(255, 255, 255,.9),
+                5px 5px 12px rgba(0, 0, 0,.2);;
+	  
+}
+.text{
+	  margin: auto;
+	  text-align: center;
+	  font-size: 24px;
+}
+.image{
+     border-radius: 20px;
+}
+.card:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+.neu{
+    margin-right: 10px;
+    width: 150px;
+    height: 50px;
+    font-size: 18px;
+    font-weight: bold;
+    background-color: #f5d9d9;
+    box-sizing: border-box;
+    border-radius: 8px;
+    outline: none;
+    color: blueviolet;
+    cursor: pointer;
+    border: none;
+    box-shadow:  -8px -8px 10px rgba(255, 255, 255,.9),
+                5px 5px 12px rgba(0, 0, 0,.2);
+
+}
+.neum{
+	margin-left: 10px;
+    width: 150px;
+    height: 50px;
+    font-size: 18px;
+    font-weight: bold;
+    background-color: #f5d9d9;
+    box-sizing: border-box;
+    border-radius: 8px;
+    outline: none;
+    color: #00e6e6;
+    cursor: pointer;
+    border: none;
+    box-shadow:  -8px -8px 10px rgba(255, 255, 255,.9),
+                5px 5px 12px rgba(0, 0, 0,.2);
+
+   
+}
+.morph{
+	  width: 330px;
+    height: 60px;
+    font-size: 18px;
+    font-weight: bold;
+    letter-spacing: 1px;
+    background-color: #f5d9d9;
+    box-sizing: border-box;
+    border-radius: 8px;
+    outline: none;
+    color: blueviolet;
+    cursor: pointer;
+    border: none;
+    box-shadow:  -8px -8px 10px rgba(255, 255, 255,.9),
+                5px 5px 12px rgba(0, 0, 0,.2);
+
+
+}
+
+footer{
+    height: 50px;
+	margin-top: 2rem;
+    background-color: #00b3b3;
+    text-align: center;
+}
+hr{
+    color: #004466;
+}
